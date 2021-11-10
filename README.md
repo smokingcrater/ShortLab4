@@ -9,3 +9,5 @@ A line I wrote using the shell on my local computer
 
 library(gitcreds)
 gitcreds_set()
+
+9 Nov 21: Another line to test Git on kinks
